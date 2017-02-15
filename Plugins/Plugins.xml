@@ -34,4 +34,5 @@
 	<Script file="Clique_WatchDog.lua"/>
 	<Script file="Clique_XPerl.lua"/>
 	<Script file="Clique_AofHeal.lua"/>	
+	<Script file="Clique_pfUI.lua"/>
 </Ui>
